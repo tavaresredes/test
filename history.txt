@@ -118,3 +118,13 @@
   118  cd ..
   119  ls
   120  history > history.txt
+  121  ls
+  122  git add history.txt 
+  123  git commit -m "terceiro history"
+  124  git push -u origin master
+  125  ls
+  126  ls
+  127  history > history.txt 
+  128  git add history.txt 
+  129  ifconfig eth0
+  130  history > history.txt 
