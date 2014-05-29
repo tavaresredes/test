@@ -128,3 +128,20 @@
   128  git add history.txt 
   129  ifconfig eth0
   130  history > history.txt 
+  131  git add history.txt 
+  132  git commit -m "4º hist see cmds"
+  133  git push -u origin master
+  134  clear
+  135  ifconfig 
+  136  clear
+  137  history > history.txt 
+  138  ls
+  139  rm SO/
+  140  rmkdir SO/
+  141  ls
+  142  rm test-hist 
+  143  ls
+  144  ls
+  145  rm README.md 
+  146  ls
+  147  history > history.txt 
