@@ -96,3 +96,15 @@
    96  clear
    97  ls
    98  history > history.txt 
+   99  git add history.txt 
+  100  git commit -m "Primeiro history"
+  101  git commit -m "segundo history"
+  102  git push -u origin master
+  103  history > history.txt 
+  104  git commit -m "segundo history"
+  105  git push -u origin master
+  106  git push -u origin master
+  107  git push -u origin master
+  108  clear
+  109  history
+  110  history > history.txt 
