@@ -86,3 +86,13 @@
    86  mkdir SO
    87  cd SO/
    88  history > history.txt
+   89  ls
+   90  vim history.txt 
+   91  clear
+   92  git add history.txt 
+   93  git commit -m "Primeiro history"
+   94  git remote add origin https://github.com/tavaresredes/test.git
+   95  git push -u origin master
+   96  clear
+   97  ls
+   98  history > history.txt 
