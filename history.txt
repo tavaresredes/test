@@ -1,0 +1,120 @@
+    1  ifconfig 
+    2  vi /etc/apt/sources.list
+    3  apt-get update
+    4  apt-get install vim
+    5  dpkg-reconfigure tzdata
+    6  apt-get update
+    7  apt-get upgrade
+    8  date
+    9  cat /etc/passwd
+   10  df -ht
+   11  df -hT
+   12  history 
+   13  vim .bash_history 
+   14  history 
+   15  cat .bash_history 
+   16  apt-get update
+   17  history 
+   18  cat .bash_history 
+   19  cat .bash_history 
+   20  reboot 
+   21  cat .bash_history 
+   22  shutdown -h now
+   23  ls
+   24  history 
+   25  dpkg -l | grep Bash-4.3
+   26  dpkg -l | grep Bash-3.2
+   27  dpkg -l | grep Bash
+   28  dpkg -l | grep Bash
+   29  dpkg -l | grep bash
+   30  vim version-check.sh
+   31  dpkg -l | grep gawk
+   32  apt-get update
+   33  /etc/init.d/networking restart 
+   34  apt-get update
+   35  vim /etc/apt/sources.list
+   36  ifconfig 
+   37  dhclient eth0
+   38  ifconfig 
+   39  apt-get update
+   40  apt-cache search gawk | grep gawk
+   41  apt-get install gawk
+   42  df -hT
+   43  dpkg -l | grep gcc
+   44  dpkg -l | grep g++
+   45  apt-get install g++
+   46  dpkg -l | grep glibc
+   47  dpkg -l | grep glib
+   48  dpkg -l | grep glib
+   49  dpkg -l | grep glib
+   50  ls
+   51  ls
+   52  touch test-hist.txt
+   53  ls
+   54  vim test-hist.txt 
+   55  apt-get install git
+   56  git clone https://github.com/tavaresredes/test.git
+   57  ls
+   58  ll
+   59  ls -l
+   60  mv test-hist.txt test
+   61  cd test/
+   62  ls
+   63  git add test-hist.txt 
+   64  git commit -m "test of history"
+   65  git push
+   66  ls
+   67  mv test-hist.txt test-hist
+   68  ls
+   69  git add test-hist 
+   70  git commit -m "test"
+   71  sudo su
+   72  git commit -m "test"
+   73  git push
+   74  git push
+   75  clear
+   76  touch README.md
+   77  ls
+   78  git init
+   79  git init
+   80  git add README.md 
+   81  git commit -m "first commit"
+   82  git remote add origin https://github.com/tavaresredes/test.git
+   83  git push -u origin master
+   84  clear
+   85  ls
+   86  mkdir SO
+   87  cd SO/
+   88  history > history.txt
+   89  ls
+   90  vim history.txt 
+   91  clear
+   92  git add history.txt 
+   93  git commit -m "Primeiro history"
+   94  git remote add origin https://github.com/tavaresredes/test.git
+   95  git push -u origin master
+   96  clear
+   97  ls
+   98  history > history.txt 
+   99  git add history.txt 
+  100  git commit -m "Primeiro history"
+  101  git commit -m "segundo history"
+  102  git push -u origin master
+  103  history > history.txt 
+  104  git commit -m "segundo history"
+  105  git push -u origin master
+  106  git push -u origin master
+  107  git push -u origin master
+  108  clear
+  109  history
+  110  history > history.txt 
+  111  ls
+  112  git add history.txt 
+  113  git commit "segundo history"
+  114  git commit -m "segundo history"
+  115  git push -u origin master
+  116  git push -u origin master
+  117  git push -u origin master
+  118  cd ..
+  119  ls
+  120  history > history.txt
